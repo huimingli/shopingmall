@@ -7,9 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6adb49c0-5b63-433b-8ad9-c0f82d67d271" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shopingmall/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shopingmall/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/shopingmall/index.jsp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -329,7 +326,7 @@
       <updated>1509969622793</updated>
       <workItem from="1509969625645" duration="935000" />
       <workItem from="1509970676648" duration="52000" />
-      <workItem from="1509971201128" duration="670000" />
+      <workItem from="1509971201128" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1509971670587</created>
@@ -338,11 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509971670587</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1509971882711</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509971882711</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1657000" />
+    <option name="totallyTimeSpent" value="1707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1936" height="1038" extended-state="0" />

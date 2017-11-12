@@ -49,15 +49,4 @@ public class DateTimeUtil {
         DateTime dateTime = new DateTime(date);
         return dateTime.toString(STANDARD_FORMAT);
     }
-
-
-
-
-    public static void main(String[] args) {
-        System.out.println(DateTimeUtil.dateToStr(new Date(),"yyyy-MM-dd HH:mm:ss"));
-        System.out.println(DateTimeUtil.strToDate("2010-01-01 11:11:11","yyyy-MM-dd HH:mm:ss"));
-
-    }
-
-
 }
